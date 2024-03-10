@@ -53,4 +53,3 @@ kube-system          replicaset.apps/coredns-f9fd979d6                   2      
 local-path-storage   replicaset.apps/local-path-provisioner-547f784dff   1         1         1       103m
 
 ```
-
