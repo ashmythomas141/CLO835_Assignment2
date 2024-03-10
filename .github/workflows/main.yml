@@ -8,7 +8,7 @@ jobs:
   
   build:
     
-    name: Images for assignment
+    name: Images for assignment2
     runs-on: ubuntu-latest
 
    
